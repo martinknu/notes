@@ -1,0 +1,30 @@
+// Install VS Code on linux system
+    sudo snap install --classic code
+
+
+    // install vscode extensions
+    
+
+
+
+// Install git
+    sudo apt install git-all
+
+
+
+// Clone from git repo
+    git clone https://www.github.com/martinknu/HTML
+
+    ------------------------------------------------
+    git status
+
+    git add README.md
+
+    git commit -m "version comment"
+
+    git push origin martinknu
+
+
+
+
+    git
