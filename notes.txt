@@ -1,14 +1,15 @@
 // Install VS Code on linux system
     sudo snap install --classic code
 
-
     // install vscode extensions
     
 
-
-
 // Install git
     sudo apt install git-all
+
+
+// Install pip
+    sudo apt install python3-pip
 
 
 
