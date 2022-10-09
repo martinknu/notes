@@ -7,6 +7,9 @@
 // Install git
     sudo apt install git-all
 
+// Install gpick color picker tool
+    sudo apt install gpick
+
 
 // Install pip
     sudo apt install python3-pip
@@ -28,6 +31,9 @@
     git commit -m "version comment"
 
     git push origin martinknu
+
+    // push to github sites repo
+    git push -u origin main
 
 
 
