@@ -43,5 +43,16 @@
     git status
 
 
+// Check git commits to repo
+    git log --oneline
 
-    git
+
+// Stash local changes 
+
+    git Stash
+
+// Retrieve stashed changes
+    git stash pop
+
+// Check git stash
+    git stash list    
