@@ -18,7 +18,8 @@
 // Using venv
     python3 -m venv /path/to/new/virtual/environment
 
-
+// Install pandas
+    pip install pandas
 
 // Clone from git repo
     git clone https://www.github.com/martinknu/HTML
