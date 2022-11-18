@@ -21,6 +21,14 @@
 // Install pandas
     pip install pandas
 
+// Install beautifulsoup
+    pip install beautifulsoup4
+
+
+// Install PyPdf2
+    pip install PyPDF2
+
+
 // Clone from git repo
     git clone https://www.github.com/martinknu/HTML
 
