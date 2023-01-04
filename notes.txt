@@ -15,14 +15,42 @@
     sudo apt install python3-pip
 
 
+// Install pipx 
+    sudo apt install pipx
+
+// Install venv
+    pipx install virtualenv
+    virtualenv --help
+
 // Using venv
+    source venv/bin/activate
     python3 -m venv /path/to/new/virtual/environment
+
+// Exit venv 
+    deactivate
+
+
+// Install sorl-thumbnails
+    pip install sorl-thumbnail
+
+
+// Install tkinter 
+    pip install tk
+
 
 // Install pandas
     pip install pandas
 
 // Install beautifulsoup
     pip install beautifulsoup4
+
+
+// install Django
+    pip install Django
+
+
+// install Django allauth
+    pip install django-allauth
 
 
 // Install PyPdf2
