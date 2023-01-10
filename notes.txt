@@ -19,7 +19,8 @@
     // Install from requirements file
     pip install -r requirements.txt
 
-
+    // Show installed packaged
+    pip freeze
 
 // Install pipx 
     sudo apt install pipx
@@ -41,6 +42,25 @@
 
 // Exit venv 
     deactivate
+
+
+// install django version 
+    pip install Django==3.1.5
+
+    // Create Django project
+    django-admin startproject nameofproject .
+
+    // Makemigrations
+    python3 manage.py makemigrations
+
+    // Migrate
+    python3 manage.py migrate
+
+    // start Django server
+    python3 manage.py runserver
+
+    // Run at specific port 
+    python3 manage.py runserver 8080
 
 
 // install Django allauth
